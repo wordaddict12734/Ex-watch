@@ -13,13 +13,6 @@ A simple and responsive **HTML + CSS e-commerce landing page**, designed to show
 
 ---
 
-##  Preview
-
-> ![Screenshot of homepage](C:\Users\Lenovo\OneDrive\Desktop\Frontend Projects\e-commerce/Home_Page.png)
-> ![Screenshot of FeaturePage](C:\Users\Lenovo\OneDrive\Desktop\Frontend Projects\e-commerce/Features.png)
-
----
-
 ##  Features
 
 -  Hero section with a full-width banner image
